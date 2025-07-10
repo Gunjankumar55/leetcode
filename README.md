@@ -8,9 +8,6 @@ Welcome! This repository contains my personal solutions to problems from [LeetCo
 - To build consistency through regular coding practice
 - To prepare for coding interviews
 
-## 🗂️ Folder Structure
-
-All problems are organized in the `leetcode/` directory, and solutions may be in Java, Python, or other languages I'm practicing with.
 
 ## 🚀 My Goals
 
