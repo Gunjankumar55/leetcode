@@ -1,12 +1,23 @@
-# 🧠 LeetCode Submissions (via LeetSync)
+# 🧠 LeetCode Solutions by Gunjankumar Choudhari
 
-This repository contains my accepted LeetCode solutions, automatically synced using the [LeetSync](https://github.com/LeetSync/LeetSync) VS Code extension.
+Welcome! This repository contains my personal solutions to problems from [LeetCode](https://leetcode.com/u/gunjankumarchoudhari/).
 
-Each file inside the `problems/` folder is named based on the problem title and contains my solution in the language I submitted.
+## 📌 Why I'm Doing This
+
+- To improve my problem-solving and DSA skills
+- To build consistency through regular coding practice
+- To prepare for coding interviews
+
+## 🗂️ Folder Structure
+
+All problems are organized in the `leetcode/` directory, and solutions may be in Java, Python, or other languages I'm practicing with.
+
+## 🚀 My Goals
+
+- Solve 300+ problems  
+- Focus on key topics like Arrays, Strings, Trees, DP, and Graphs  
+- Revisit and revise tricky problems
 
 ---
 
-📌 Powered by LeetSync  
-✍️ Solving regularly to improve DSA skills  
-💻 Languages: Java, Python, C++
-
+🔗 **My LeetCode Profile:** [gunjankumarchoudhari](https://leetcode.com/u/gunjankumarchoudhari/)
