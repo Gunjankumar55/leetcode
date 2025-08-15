@@ -7,14 +7,14 @@ class Solution {
         while(left < right){
             if(s.charAt(left) != s.charAt(right))
             {
-                ispal = false;
+                return false;
 
             }
             left ++;
                 right --;
 
         }
-        return ispal;
+        return true;
     }
         
 }
