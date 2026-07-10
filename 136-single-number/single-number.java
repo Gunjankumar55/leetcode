@@ -11,7 +11,7 @@ class Solution {
             return entry.getKey();
         }
      }
-     return  1;
+     return  -1;
 
     }
 }
