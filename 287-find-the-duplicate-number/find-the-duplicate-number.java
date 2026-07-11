@@ -1,15 +1,14 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        HashSet<Integer> gunjan = new HashSet<>();
-        for(int i = 0 ; i<nums.length ; i++){
-            if(gunjan.contains(nums[i])){
-                return nums[i];
-
+        HashSet<Integer> hs = new HashSet<>();
+        for(int i : nums){
+            if(hs.contains(i)){
+                return i;
             }
             else{
-                gunjan.add(nums[i]);
+                hs.add(i);
             }
-        }       
-        return -1; 
+        }
+        return 0;
     }
 }
