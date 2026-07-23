@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions by Gunjankumar Choudhari
 
-Welcome! This repository contains my personal solutions to problems from [LeetCode](https://leetcode.com/u/gunjankumarchoudhari/).
+Welcome! This repository contains my personal solutions to problems from [LeetCode](https://leetcode.com/u/gunjankumar55/).
 
 ## 📌 Why I'm Doing This
 
