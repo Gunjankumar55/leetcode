@@ -17,4 +17,4 @@ Welcome! This repository contains my personal solutions to problems from [LeetCo
 
 ---
 
-🔗 **My LeetCode Profile:** [gunjankumarchoudhari](https://leetcode.com/u/gunjankumarchoudhari/)
+🔗 **My LeetCode Profile:** [gunjankumarchoudhari](https://leetcode.com/u/gunjankumar55/)
